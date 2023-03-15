@@ -1,0 +1,89 @@
+*{
+	color:black;
+   font-family: 'Roboto', sans-serif;
+   font-size: 18px;
+   cursor:default;
+}
+
+body{
+	background-color: #e6e6ff
+
+}
+
+/** Eventos*/
+
+	
+.ocultar{
+    
+	display:none;
+}
+
+.mostrar{
+	display:block;
+}
+
+
+p{
+	margin:20px;
+}
+
+.encabezado {
+    
+	display:flex;
+	align-items: center;
+    background-color: #ccd9ff;
+    padding:10px;
+	 
+}
+
+.imagen{
+	padding: 2px;
+
+}
+.nombre{
+	margin-left: 15px;
+	padding:2px;
+	
+}
+
+
+h1{color:#000080;
+	font-size: 20px;
+}
+
+.columna-1{
+	float:left;
+    width:50%; 
+    padding:5px;
+    
+}
+
+.columna-2{
+	width: 50%
+	padding:5px;
+	
+}
+
+.contenedor{
+	
+	padding:10px;
+}
+
+div ul{
+	margin:10px;
+}
+
+button{
+	background-color: #6666ff;
+	border-radius: 5px ;
+	color:white;
+	border:none;
+	margin:10px;
+	font-size:16px;
+	cursor: pointer;
+}
+
+ h2{
+    margin:20px;
+    color:#000080;
+}
